@@ -48,5 +48,5 @@ light = ["bright lighting","campfire lighting","candlelight","cinematic lighting
 "laser light","LED lights","lens flare","light rays","natural lighting","neon bulb","nixie tube bulb",
 "plasma globe","silhouette lighting","spotlight","sunlight","vacuum tube bulb","x-ray"]
 a = choice(medium)
-promot = 'underwood play guitar'+','+choice(medium)+','+choice(film)+','+choice(camera)+','+choice(color)+','+choice(light)
+promot = 'portrait of underwood play guitar'+','+choice(medium)+','+choice(film)+','+choice(camera)+','+choice(color)+','+choice(light)
 print(promot)
